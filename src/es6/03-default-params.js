@@ -14,3 +14,4 @@ function newAdmin(name = 'Oscar', age = 32, country = 'CL') {
 
 newAdmin();
 newAdmin('Ana', 28, 'PE');
+
